@@ -3,14 +3,14 @@ import './Skills.css';
 
 const Skills = () => {
     const skills = [
-        { name: 'HTML', level: '90%', img: './src/assets/html1.png' },
-        { name: 'CSS', level: '85%', img: './src/assets/css.png' },
-        { name: 'JavaScript', level: '80%', img: './src/assets/js1.png' },
-        { name: 'React', level: '75%', img: './src/assets/react.png' },
-        { name: 'Django', level: '70%', img: './src/assets/django.png' },
-        { name: 'Python', level: '85%', img: './src/assets/python.png' },
-        { name: 'SQL', level: '80%', img: './src/assets/sql.png' },
-        { name: 'Golang', level: '65%', img: './src/assets/golang.png' },
+        { name: 'HTML', level: '90%', img: './assets/html1.png' },
+        { name: 'CSS', level: '85%', img: './assets/css.png' },
+        { name: 'JavaScript', level: '80%', img: './assets/js1.png' },
+        { name: 'React', level: '75%', img: './assets/react.png' },
+        { name: 'Django', level: '70%', img: './assets/django.png' },
+        { name: 'Python', level: '85%', img: './assets/python.png' },
+        { name: 'SQL', level: '80%', img: './assets/sql.png' },
+        { name: 'Golang', level: '65%', img: './assets/golang.png' },
     ];
 
     return (

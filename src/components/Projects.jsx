@@ -6,21 +6,21 @@ const Projects = () => {
         {
             title: "Travel Website",
             description: "A Kerala travel website showcases the scenic beauty, cultural richness, and unique experiences of Kerala, offering travelers essential guides, itineraries, and booking options to explore God’s Own Country.",
-            image: "./src/assets/kerala.jpg",
+            image: "./assets/Kerala.jpg",
             link: "https://athul-k-ak.github.io/Travel/",
             code: "https://github.com/Athul-k-ak/Travel"
         },
         {
             title: "Weather Dashboard",
             description: "A weather dashboard app provides real-time weather updates with detailed information on temperature, humidity, wind speed, displayed in an easy-to-read, card-based layout for quick insights.",
-            image: "./src/assets/weather.jpg",
+            image: "./assets/weather.jpg",
             link: "https://athul-k-ak.github.io/weather/",
             code: "https://github.com/Athul-k-ak/weather"
         },
         {
             title: "Budjet Tracker",
             description: "A budget tracker app that helps users efficiently manage and monitor income, expenses, and financial goals through a streamlined, tabular display and intuitive features.",
-            image: "./src/assets/budjet.jpeg",
+            image: "./assets/budjet.jpeg",
             link: "https://athul-k-ak.github.io/Budget_tracker/",
             code: "https://github.com/Athul-k-ak/Budget_tracker"
         }
